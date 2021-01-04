@@ -1,14 +1,17 @@
 {
   "urls": [
     {
+      "id": 1,
       "title": "2015 - day 1",
       "url": "https://adventofcode.com/2015/day/1"
     },
     {
+      "id": 2,          
       "title": "2015 - day 2",
       "url": "https://adventofcode.com/2015/day/2"
     },
     {
+      "id": 3,
       "title": "2015 - day 3",
       "url": "https://adventofcode.com/2015/day/3"
     }
